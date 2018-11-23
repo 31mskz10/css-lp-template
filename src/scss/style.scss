@@ -1,0 +1,17 @@
+
+//variables
+@import './variables/color'; //変数 - 色
+@import './variables/size'; //変数 - サイズ
+@import './variables/text'; //変数 - テキスト
+
+//base
+@import './base/reset'; //リセットCSS
+@import './base/base'; //ベース設定
+
+//module
+@import './module/box'; //
+@import './module/button'; //
+@import './module/heading'; //
+@import './module/layout'; //
+@import './module/section'; //
+@import './module/text'; //
